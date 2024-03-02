@@ -1,0 +1,27 @@
+#red {
+    color: rgb(207, 42, 42)
+}
+#blue {
+    color: rgb(47, 186, 225)
+}
+#orange{
+    color: rgb(214, 164, 13)
+}
+#green {
+    color: rgb(42, 207, 92)
+}
+#yellow {
+    color: rgb(194, 220, 25)
+}
+
+img {
+    width: 200px; 
+    height: 200px;
+}
+
+.color-title {
+    font-weight: normal;
+  }
+  /* h2[class] {
+  font-weight: normal
+}
